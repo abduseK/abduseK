@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abdelselamkemal74@gmail.com**
 
-- ⚡ Fun fact **'m lazy coder😇**
+- ⚡ Fun fact **'m a lazy coder😇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
