@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a project called Wallet-X**
 
-- 👨‍💻 All of my projects are available at [https://abduse.devfolio.io/](https://abduse.devfolio.io/)
+- 👨‍💻 All of my projects are available at [(https://abdelselam.netlify.app/)]((https://abdelselam.netlify.app/))
 
 - 💬 Ask me about **flutter and mobile apps📱**
 
