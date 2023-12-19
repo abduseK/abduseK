@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a project called Wallet-X**
 
-- 👨‍💻 Sone of my public projects are available here.
+- 👨‍💻 Some of my public projects are available here.
 
 - 💬 Ask me about **flutter and mobile apps📱**
 
