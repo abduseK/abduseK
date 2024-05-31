@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdelselam Kemal</h1>
-<h3 align="center">Mobile App Developer(Flutter)</h3>
+<h3 align="center">Full Stack Mobile App and Website Developer(Flutter)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
 
 - 🔭 I’m currently working on **a project called Wallet-X**
 
 - 👨‍💻 Some of my public projects are available here.
 
-- 💬 Ask me about **flutter and mobile apps📱**
+- 💬 Ask me about **flutter and web apps📱**
 
 - 📫 How to reach me **abdelselamkemal74@gmail.com**
 
