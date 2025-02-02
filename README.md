@@ -1,28 +1,104 @@
-<h1 align="center">Hi 👋, I'm Abdelselam Kemal</h1>
-<h3 align="center">Full Stack Mobile App and Website Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abduseK&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/abduseK)
 
-- 🔭 I’m currently working on **a project called Wallet-X**
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
+<div align="left" width="100%" height="100%">
+ 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ab-adam74/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:abdelselamkemal74@gmail.com)
+![](https://komarev.com/ghpvc/?username=abduseK&color=brightgreen&style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lazyCoder_I0I0)
+</div>
 
-- 👨‍💻 Some of my public projects are available here.
+<h4 style="font-size : 20px;">Hi👋 I'm a Software developer. Driven by a passion for technology and programming,
 
-- 💬 Ask me about **flutter and web apps📱**
+I am fluent in classics like Flutter, Javascript.
 
-- 📫 How to reach me **abdelselamkemal74@gmail.com**
+My field of Interest's are building new  mobile and web applications and also vidoe editing.
 
-- ⚡ Fun fact **'m a lazy coder😇**
+When I'm not coding or designing, I enjoy exploring new technologies and experimenting with innovative ideas!<h4>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelselam-kemal-5a4a35207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelselam-kemal-5a4a35207/" height="30" width="40" /></a>
-</p>
+ 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   </a> </p>
+<h2> Some of the technologies I work with ❤️</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdusek&show_icons=true&theme=radical&locale=en&layout=compact" alt="abdusek" /></p>
+<h4> programming languages</h4>
+ 
+ <table width="100%" height="100%">
+  <tr>
+      <td>
+        <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+     </td>
+     <td>
+      <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+     </td>
+          <td align="center">
+       <img alt="Dart" height=64px src= "https://cdn.worldvectorlogo.com/logos/dart.svg">
+     <!-- </td>
+      <td align="center">
+      <img alt="Go-lang" height=64px src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
+    </td> -->
+   </tr>
+</table>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdusek&show_icons=true&theme=radical&locale=en" alt="abdusek" /></p>
- -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdusek&theme=dark" alt="abdusek" /></p>
+<h4> Technologies [ Frameworks && tools ] </h4>
 
+<table>
+   <tr>
+          <td align="center">
+       <img alt="Next js" height=64px src= "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+     </td>
+      <td align="center">
+      <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    </td>
+          <td align="center">
+       <img alt="Flutter" height=64px src="https://cdn.worldvectorlogo.com/logos/flutter.svg">
+     </td> 
+    <td>
+        <img alt="NestJS" height=64px src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
+     </td>
+     <td align="center">
+      <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+    </td>
+     <td align="center">
+       <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
+     </td>
+     <td align="center">
+       <img alt="Electron" height=64px src="https://cdn.worldvectorlogo.com/logos/electron-1.svg">
+     </td> 
+      <td align="center">
+       <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
+     </td> 
+    <td>
+     <img alt="shad-cn" height=64px src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096">
+    </td>
+   </tr>
+   <tr>
+<!--           <td align="center">
+       <img alt="Hono" height=64px src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png">
+     </td>  -->
+     <td align="center">
+       <img alt="Express" height=64px src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png">
+     </td>
+        <td align="center">
+       <img alt="Mongo Db" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+     </td>
+    <td align="center">
+       <img alt="Firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
+     </td>   
+    <td align="center">
+       <img alt="my-sql" height=64px src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg">
+     </td> 
+<!--        <td align="center">
+       <img alt="GraphQL" height=64px src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg">
+     </td>  -->
+       <td align="center">
+       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+     </td>  
+<!--     <td align="center">
+       <img alt="Socket-io" height=64px src="https://cdn.worldvectorlogo.com/logos/socket-io.svg">
+     </td>  -->
+   </tr>
+
+ </table>
+ 
+<br>
