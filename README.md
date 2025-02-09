@@ -13,7 +13,7 @@
 
 I am fluent in classics like Flutter, Javascript.
 
-My field of Interest's are building new  mobile and web applications and also vidoe editing.
+My field of interest's are building new  mobile and web applications and also video editing.
 
 When I'm not coding or designing, I enjoy exploring new technologies and experimenting with innovative ideas!<h4>
 
