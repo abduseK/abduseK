@@ -9,11 +9,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lazyCoder_I0I0)
 </div>
 
-<h4 style="font-size : 20px;">Hi👋 I'm a Software developer. Driven by a passion for technology and programming,
+<h4 style="font-size : 20px;">Hi👋 I'm a Product developer and software engineer driven by a passion for design and programming,
 
-I am fluent in classics like Flutter, Javascript.
+I am fluent in classics like Figma, Framer, Flutter, Javascript.
 
-My field of interest's are building new  mobile and web applications and also video editing.
+My field of interest's are designing and building new  mobile and web applications and also video editing.
 
 When I'm not coding or designing, I enjoy exploring new technologies and experimenting with innovative ideas!<h4>
 
@@ -21,7 +21,26 @@ When I'm not coding or designing, I enjoy exploring new technologies and experim
 
 <h2> Some of the technologies I work with ❤️</h2>
 
-<h4> programming languages</h4>
+<h4> Designing Tools </h4>
+
+ <table width="100%" height="100%">
+  <tr>
+      <td>
+        <img alt="Figma" height=64px src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg">
+     </td>
+     <td>
+      <img alt="Framer" height=64px src="https://cdn.worldvectorlogo.com/logos/framer-1.svg">
+     </td>
+          <td align="center">
+       <img alt="Adobe XD" height=64px src= "https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg">
+     <!-- </td>
+      <td align="center">
+      <img alt="Go-lang" height=64px src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
+    </td> -->
+   </tr>
+</table>
+
+<h4> Programming Languages</h4>
  
  <table width="100%" height="100%">
   <tr>
@@ -29,7 +48,7 @@ When I'm not coding or designing, I enjoy exploring new technologies and experim
         <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
      </td>
      <td>
-      <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+      <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
      </td>
           <td align="center">
        <img alt="Dart" height=64px src= "https://cdn.worldvectorlogo.com/logos/dart.svg">
@@ -76,9 +95,9 @@ When I'm not coding or designing, I enjoy exploring new technologies and experim
 <!--           <td align="center">
        <img alt="Hono" height=64px src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png">
      </td>  -->
-     <td align="center">
-       <img alt="Express" height=64px src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png">
-     </td>
+     <!-- <td align="center">
+       <img alt="Express" height=64px src="https://cdn.worldvectorlogo.com/logos/express-109.svg">
+     </td> -->
         <td align="center">
        <img alt="Mongo Db" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
      </td>
