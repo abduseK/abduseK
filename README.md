@@ -29,7 +29,7 @@ When I'm not coding or designing, I enjoy exploring new technologies and experim
         <img alt="Figma" height=64px src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg">
      </td>
      <td>
-      <img alt="Framer" height=64px src="https://cdn.worldvectorlogo.com/logos/framer-1.svg">
+      <img alt="Framer" height=64px src="https://res.cloudinary.com/dunnwqmqc/image/upload/v1769147933/Framer_ug6vna.png">
      </td>
           <td align="center">
        <img alt="Adobe XD" height=64px src= "https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg">
